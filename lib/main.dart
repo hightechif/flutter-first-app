@@ -60,55 +60,55 @@ class MyApp extends StatelessWidget {
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                     Container(
                       margin: const EdgeInsets.all(10),
                       child: const Text(
-                          "Ini ada lah teks yang ada di lapisan tengah dari Stack.",
+                          "Ini adalah teks yang ada di lapisan tengah dari Stack.",
                           style: TextStyle(fontSize: 30)),
                     ),
                   ],
