@@ -28,11 +28,26 @@ class MyApp extends StatelessWidget {
                         Flexible(
                             flex: 1,
                             child: Container(
-                              color: Colors.black,
+                              color: Colors.black12,
                             )),
                       ],
                     )),
-                const Flexible(flex: 1, child: Text("Aku"))
+                Flexible(
+                    flex: 1,
+                    child: Row(
+                      children: <Widget>[
+                        Flexible(
+                            flex: 1,
+                            child: Container(
+                              color: Colors.black12,
+                            )),
+                        Flexible(
+                            flex: 1,
+                            child: Container(
+                              color: Colors.white,
+                            )),
+                      ],
+                    )),
               ],
             )
           ],
